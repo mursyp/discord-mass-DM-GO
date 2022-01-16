@@ -10,9 +10,9 @@
     "friend_before_DM": false,
     "online_tokens": false,
     "online_scraper_delay": 1000,
-    "call": false,
+    "call": true,
     "proxy_from_file": false,
-    "max_dms_per_token": 0,
+    "max_dms_per_token": 10,
     "receive_messages": false,
     "use_proxy_for_gateway": false
 }
